@@ -1,7 +1,9 @@
 {
   "name": "kusa-ui",
   "version": "0.0.7",
-  "files": ["dist/lib/*"],
+  "files": [
+    "dist/lib/*"
+  ],
   "main": "dist/lib/kusa.js",
   "module": "dist/lib/kusa.esm.js",
   "scripts": {
